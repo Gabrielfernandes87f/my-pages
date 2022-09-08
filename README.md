@@ -1,3 +1,3 @@
-# my-pages
+# acesse essa lading page no link abaixo
 
-[acesse a page](https://gabrielfernandes87f.github.io/my-pages/)
+[acessar lading page](https://gabrielfernandes87f.github.io/my-pages/)
