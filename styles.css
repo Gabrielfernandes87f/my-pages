@@ -227,7 +227,7 @@ sup {
 
 a {
   color: #1abc9c;
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:hover {
   color: #15967d;
